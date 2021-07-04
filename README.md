@@ -2,6 +2,8 @@
 The C programming language is a computer programming language that was developed to do system programming for the operating system UNIX and is an imperative programming language. C was developed in the early 1970s by Ken Thompson and Dennis Ritchie at Bell Labs. ... C is a compiled language.
 
 Labsheet 01
+
+
    (Q1)  Write a C program to display your name, index number, address and date of birth as follows.
    
                         Name : <First Name> <Last Name>
