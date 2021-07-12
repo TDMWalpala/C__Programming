@@ -174,3 +174,28 @@ Labsheet 03
        number and users will say whether it is too high, too low, or that’s the number. At the end, print how many guesses it took to get right number. Note: You will have to   
        choose how your program will strategically guess. A naïve strategy can be to simply start the guessing at 1, and keep going (2, 3, 4, etc.) until you hit the number. But 
        that’s not an optimal guessing strategy. You need to provide an optimized solution.
+       
+Labsheet 04
+
+(Q1) Write a C program to adding two numbers according to the user input. You should declare a separate function called “addition ()” to add two given user inputs.
+
+(Q2) Write a function (without parameters) that increments count by 1 and set it back to 0 when it reaches multiples of 9.
+
+(Q3) Write functions to compute the surface area and volume of a cube for a given length of a side.
+
+(Q4) Write a simple T20 cricket prediction program as follows. When you are given the current run rate(runs per over) and number of overs played, predict the projected score for current run rate and higher run rates of whole inning.(e.g. Current RR: 6.4 per over, Higher RR: 7 per over, 8 per over, 9 per over).
+
+(Q5) Write a C program to implement a game application that plays the children’s game of rock, paper, and scissors. The user enters a letter, indicating a choice. Write a method to pick a value in the range of 1 through 3, with 1 corresponding to rock, 2 corresponding to paper, and 3 corresponding to scissors. The computer’s choice is compared to the user’s choice according to the rules: rock breaks scissors, scissors cut paper, paper covers rock. Choices that match are ties. Display whether user won, lost or match was tie. The application should end when the user enters an invalid choice.
+
+
+(Q6) Write a function to calculate nCr when n and r are given using following binomial coefficient rules.
+
+(Q7) Write a program to calculate the date of birth from a given NIC number
+
+(Q8) Write a C function to compute the greatest common divisor (GCD) of two given numbers
+
+(Q9) Write a function in C to sum the powers 2n of all integers n between two given numbers a and b.
+
+       E.g: If a = 5 and b = 8 Then sum = 52 + 62 + 72 + 82
+       
+(Q10) Write a recursive C function to get the following output regarding factorial.
