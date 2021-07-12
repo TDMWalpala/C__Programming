@@ -114,3 +114,63 @@ Labsheet 02
       
       
       
+Labsheet 03
+
+(Q1) Write C programs to display the following outputs.
+       
+       a. * * * * * * *  b.           *   c. * * * * * *  d.* * * * * *  e.* * * * * *  f. *
+          * * * * * * *             * *      * *       *    *         *    * * * * *       * *
+          * * * * * * *           * * *      *   *     *    *         *    * * * *         * * *
+          * * * * * * *         * * * *      *     *   *    *         *    * * *           * * * *
+          * * * * * * *       * * * * *      *       * *    *         *    * *             * * * * *
+          * * * * * * *     * * * * * *      * * * * * *    * * * * * *    *               * * * * * *
+    
+    
+(Q2)  Write a function which checks whether page of a book is in left side or right side when page number is given. Note that numbering starts from the very first page.
+
+(Q3)  Write a program to check if a number is even or odd.
+
+(Q4)  Write a program called PrintNumberInWord which prints "ONE", "TWO", ... , "NINE", "OTHER" if the int variable "number" is 1, 2,... , 9, or other, respectively. Use a             "nested-if" statement. 
+
+(Q5)  Given the float variables x1, x2, y1, y2 write a code segment to find the slope of a line through the two points (x1, y1) and (x2, y2). Note that you have to check whether       slope is undefined.
+
+(Q6)  Write a C program to calculate the revenue from a sale based on the unit price and quantity of a product input by the user.
+      
+      The discount rate is 15% for the quantity purchased between 120 and 160 units, and 20% for the quantity purchased greater than 160 units. If the quantity purchased is less       than 120 units, the discount rate is 0%.
+
+(Q7)  Print "Uppercase", "Lowercase", or "Not a letter" depending on whether the character input by the user is an uppercase alphabetic character, a lowercase alphabetic        
+      character, or not an alphabetic character at all.
+      
+(Q8)  Create a program to print a list of all the divisors of a given number.
+
+(Q9)  Find the maximum consecutive 1's in a string of 0's and 1's. 
+
+      Eg: 00110001001110 - Output :3 [Max number of consecutive 1's is 3]
+      
+      
+(Q10)  Write C program to check whether a given year is a leap year. 
+
+       (Hint: Every year that is exactly divisible by four is a leap year, except for years that are exactly  
+       divisible by 100, but these centurial years are leap years if they are exactly divisible by 400. ... The years 1600, 2000 and 2400 are leap years, while 1700, 1800, 1900,
+       2100, 2200 and 2300 are not leap years)
+       
+(Q11)  Body constitution is measured using BMI (Body Mass Index) which depends only on the height and weight of a person. It can be defined by,
+       
+       BMI = weight / height2  
+       Where weight is taken in kilograms and height in meters. Four general grades are proposed such that, 
+       Underweight : BMI < 18.5
+       Normal weight : 18.5 <= BMI < 25.03
+       Overweight : 25.0 <= BMI < 30.0 Obesity : 30.0 <= BMI
+      
+   Write a C program to output user’s body constitution grade when he/she inputs body weight (kg) and the height (m).
+       
+(Q12)   Write a method to count the number of 2s in given range of integers.
+       
+        Eg: 10,11,12 ,13,14,15,16,17,18,19, 20
+        
+(Q13)  Implement the following game using while loop. 
+
+       User will have a number between 0 and 100 in his or her head. Write a C program to guess that number. Program will guess a 
+       number and users will say whether it is too high, too low, or that’s the number. At the end, print how many guesses it took to get right number. Note: You will have to   
+       choose how your program will strategically guess. A naïve strategy can be to simply start the guessing at 1, and keep going (2, 3, 4, etc.) until you hit the number. But 
+       that’s not an optimal guessing strategy. You need to provide an optimized solution.
