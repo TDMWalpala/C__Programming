@@ -1,6 +1,8 @@
 # C__Programming
 The C programming language is a computer programming language that was developed to do system programming for the operating system UNIX and is an imperative programming language. C was developed in the early 1970s by Ken Thompson and Dennis Ritchie at Bell Labs. ... C is a compiled language.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Labsheet 01
 
 
@@ -29,6 +31,7 @@ Labsheet 01
    how old is your CAT?
    3 years                     
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Labsheet 02
 
@@ -112,7 +115,7 @@ Labsheet 02
           F = C * 9/5 + 32 
    Write a C program to calculate the Fahrenheit temperature for a given temperature in Celsius. .
       
-      
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------      
       
 Labsheet 03
 
@@ -175,6 +178,8 @@ Labsheet 03
        choose how your program will strategically guess. A naïve strategy can be to simply start the guessing at 1, and keep going (2, 3, 4, etc.) until you hit the number. But 
        that’s not an optimal guessing strategy. You need to provide an optimized solution.
        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+   
 Labsheet 04
 
 (Q1) Write a C program to adding two numbers according to the user input. You should declare a separate function called “addition ()” to add two given user inputs.
@@ -190,6 +195,7 @@ Labsheet 04
 
 (Q6) Write a function to calculate nCr when n and r are given using following binomial coefficient rules.
 
+
 (Q7) Write a program to calculate the date of birth from a given NIC number
 
 (Q8) Write a C function to compute the greatest common divisor (GCD) of two given numbers
@@ -199,3 +205,37 @@ Labsheet 04
        E.g: If a = 5 and b = 8 Then sum = 52 + 62 + 72 + 82
        
 (Q10) Write a recursive C function to get the following output regarding factorial.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Labsheet 05
+
+(Q1) Create a multiplication table storing the values in a 2D array and then print the table.
+
+(Q2) Using the two matrixes write functions for matrixes addition, subtraction and multiplication
+
+(Q3) Declare an array in the main method to store 15 double numbers given below.
+
+      34.5   56.7  12.6  98.4  54.21
+      89.55  54.2  98.4  73.2  21.45
+      34.5   98.4  21.45 98.4  9.3
+   Write separate methods in the C program to perform following operations.
+      a. Calculate the total of the elements in the array and then return the total.
+      b. Calculate the average of the elements in the array and then return the average.
+      c. Find the minimum element in the array and return.
+      d. Find the maximum elements in the array and return.
+      e. Find the element(s) which appears the maximum number of times in the array.
+  Call the above defined methods within the main method.
+
+(Q4) Write a program for given values of five students’ scores, gets the best score, and then assigns
+     grades based on the following scheme:
+     
+     Grade is A If score is >= best - 10;
+     Grade is B If score is >= best - 20;
+     Grade is C If score is >= best - 30;
+     Grade is D If score is >= best - 40;
+     Grade is F otherwise.
+
+(Q5) Write a C program that reads in ten numbers and displays the number of distinct numbers and
+     the distinct numbers. (i.e., if a number appears multiple times, it is displayed only once).
+     
